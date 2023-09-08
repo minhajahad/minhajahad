@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=minhajahad" alt="Md Minhajul Karim" />
-</p>
-
 <div>
   <img height="170" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minhajahad&count_private=true&include_all_commits=true&theme=highcontrast&bg_color=0,000000,130F40" />
   
