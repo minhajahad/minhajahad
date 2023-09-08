@@ -52,6 +52,7 @@
 <h2>My Repos</h2>
 
 [![socialMedia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minhajahad&repo=socialMedia&show_owner=true)](https://github.com/minhajahad/socialMedia)
+[![laravel_project_2_ecommerceapp](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=minhajahad&repo=laravel_project_2_ecommerceapp&show_owner=true)](https://github.com/minhajahad/laravel_project_2_ecommerceapp)
 
 <br />
 
